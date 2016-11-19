@@ -1,0 +1,38 @@
+- New Kameleon Welcome Page
+- New Contact Form 7 Live Designer
+- Custom Settings
+- Unlimited Sidebars
+- Google Maps API 3
+- Advanced live code editor
+- New Admin Panel
+- 10 New Headers Styles
+- Re-coded metaboxes
+- New Demo importer 
+- New Home Demos
+- Tweaked Visual Composer page builder 	
+- New Visual Composer Elements :
+	- Video Player
+	- Modal Video Player
+	- Ajax Portfolio
+	- Interactive Iconbox
+	- Hover Single Image
+	- Line Separator
+	- Before / After Images
+	- Screen Splitter
+	- Filter Images
+	- Social Share
+	- Social Find Us
+	- Iconbox Action
+	- Row Vertical Line Decorator
+
+- Two Footer Types
+- Slide Widget Area
+- 5 Next / Previous Buttons Styles
+- Unlimited titlebar designs and layouts
+- Better Font Management
+- Plus 3000 new fast loading icons
+- All plugins updated
+- Modern Post Layout
+- Modern Portfolio Layout
+- Modern Product Layout
+- Many many other new features 
